@@ -1,0 +1,2 @@
+rosbagTimestamp,header,seq,stamp,secs,nsecs,frame_id,point_id,x,y,z,range,velocity,doppler_bin,bearing,intensity
+1596091224736376338,,56208,,1596091224,735709017,"""ti_mmwave""",0,9.7890625,-9.2890625,0.5703125,16.5750637054,0.0,8,-43.4987335205,21.6731739044

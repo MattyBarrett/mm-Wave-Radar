@@ -1,0 +1,6 @@
+Notes about this data.
+
+For test T1, T2, T3 and Ute - Data was all taken at 2.5m increments. This is not accurately represented in the file name to make the python code easier to code. 
+For example T1_5 was taken at 5m, T1_6 was taken at 7.5m, T1_7 wastaken at 10m. This pattern repeats for each of the data sets - T1, T2, T3 and Ute
+
+T4, T5 and T6 were all taken in 1m increments starting at 5m. Therefore the file name represents the exact distance it was recorded at. 
