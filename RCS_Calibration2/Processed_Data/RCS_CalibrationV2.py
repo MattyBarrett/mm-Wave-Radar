@@ -311,6 +311,8 @@ plt.ylabel('Intensity (dB)')
 plt.legend()
 plt.grid()
 fig.suptitle('Maximum Detectable Range of Various Triangular RCS Targets')
+mng=plt.get_current_fig_manager()
+mng.resize(*mng.window.maxsize())
 # plt.tight_layout()
 # plt.savefig('subPlot.png')
 
